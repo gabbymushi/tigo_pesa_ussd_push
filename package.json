@@ -1,0 +1,30 @@
+{
+  "name": "tigo_pesa_ussd_push",
+  "version": "1.0.0",
+  "description": "API for tigopesa USSD push",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbymushi/tigo_pesa_ussd_push.git"
+  },
+  "keywords": [
+    "TigoPesa",
+    "USSD",
+    "PUSH"
+  ],
+  "author": "gabbymushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbymushi/tigo_pesa_ussd_push/issues"
+  },
+  "homepage": "https://github.com/gabbymushi/tigo_pesa_ussd_push#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  }
+}
